@@ -1,1 +1,2 @@
-Echo "terraform plan" 
+Echo "terraform plan"
+Echo "terraform apply" 
