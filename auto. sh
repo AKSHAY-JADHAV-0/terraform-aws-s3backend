@@ -1,3 +1,4 @@
 Echo "terraform plan"
 Echo "terraform apply"
-Echo "terraform destroy" 
+Echo "terraform destroy"
+Echo "terraform show" 
